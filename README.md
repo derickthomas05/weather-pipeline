@@ -12,7 +12,7 @@ python pipeline.py
 streamlit run app.py
 
 ## Screenshot
-![Dashboard] (screenshot.png) (screenshot1.png)
+![Dashboard](screenshot.png) ![Dashboard2](screenshot1.png)
 
 
 ## What I learned
